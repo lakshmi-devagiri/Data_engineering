@@ -4,3 +4,5 @@
 *.pem 
 *.key 
 *.p12 
+*.log
+replay_pid*.log
