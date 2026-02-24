@@ -1,0 +1,2 @@
+id,name,height,weight,abilities,types,hp,attack,defense,speed
+25,pikachu,4,60,"static,lightning-rod",electric,35,55,40,90

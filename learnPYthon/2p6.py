@@ -1,0 +1,1 @@
+#6. In a gameshow contestant can vote their competitor to get eliminated. Each contestant gets to vote twice, there are 6 contestants, write a python program to find out the name of the Contestant who is getting eliminated.
