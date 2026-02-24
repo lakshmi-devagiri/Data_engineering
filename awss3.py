@@ -1,6 +1,6 @@
 from pyspark.sql import *
-ACCESS_KEY = "AAKIAT5CQT4XOMNL5OPGE"
-SECRET_KEY = """ZTjAzp8NIAwwdEThoYEwz7xsXLrHhEZfIOTP1yBJ"""
+ACCESS_KEY = ""
+SECRET_KEY = """"""
 
 spark = (SparkSession.builder
          .appName("pyspark")
